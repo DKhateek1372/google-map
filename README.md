@@ -8,6 +8,7 @@ To Set-Up this project:
 
 Front End : 
 First go to the folder and open folder into terminal. ( `/Desktop/moovlee/google-location-frontend-api` )
+
 To start local server 
 Please use this command : npm start 
                   or    : npm lite start
